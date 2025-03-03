@@ -1,0 +1,9 @@
+/* Add styles here */
+
+/* importar bootstrap */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+.photo {
+    max-width: 300px;
+}
