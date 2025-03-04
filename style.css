@@ -7,3 +7,14 @@
 .photo {
     max-width: 300px;
 }
+
+ 
+
+
+.img {
+    height: 400px;
+    width: 600px;
+    padding: 50px;
+    margin: 50px;
+}
+
