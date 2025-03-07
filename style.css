@@ -9,12 +9,14 @@
 }
 
  
-
-
-.img {
-    height: 400px;
-    width: 600px;
-    padding: 50px;
-    margin: 50px;
+.card 
+{
+    width: 400px;
 }
 
+.photos {
+
+    max-width: 100px;
+
+
+}
