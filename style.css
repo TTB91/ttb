@@ -6,6 +6,8 @@
 
 .photo {
     max-width: 300px;
+    border-radius: 50rem;
+
 }
 
 nav.nav-bar{
@@ -13,14 +15,18 @@ nav.nav-bar{
 }
 nav {
     font-family: "Tenor Sans", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
+    
 }
 
 h1 {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 800;
 }
+
 p {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 500;
+    
 }
+
