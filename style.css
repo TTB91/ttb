@@ -6,7 +6,7 @@
 
 .photo {
     max-width: 300px;
-    border-radius: 50rem;
+    border-radius: 50px;
 
 }
 
@@ -27,6 +27,12 @@ h1 {
 p {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 500;
-    
 }
 
+.container{
+    padding: 80px;
+} 
+
+body {
+    background-color: lightpink;
+}
