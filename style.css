@@ -16,7 +16,7 @@
 nav.nav-bar{
     background-color: rgb(231, 69, 177);
     font-size: 25px;
-    padding: 10px;
+    margin: 10px;
 
 }
 
@@ -28,7 +28,7 @@ nav {
 h1 {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 800;
-    padding: 30px;
+    padding: 20px;
     }
 h2{
     font-family: "Tenor Sans", sans-serif;
@@ -41,12 +41,8 @@ p {
 }
 
 li{
-
+margin: 20px;
 }
-
-.container{
-    padding: 80px;
-} 
 
 body {
     background-color: lightpink;
