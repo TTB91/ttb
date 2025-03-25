@@ -7,6 +7,7 @@
 .photo {
     max-width: 300px;
     border-radius: 50px;
+    border: solid black 3px;
 }
 
 .image{
@@ -46,4 +47,8 @@ margin: 20px;
 
 body {
     background-color: lightpink;
+}
+
+
+#carouselExampleDark    { max-width: 50vw;
 }
