@@ -15,10 +15,9 @@
 }
 
 nav.nav-bar{
-    background-color: rgb(177, 35, 170);
-    font-size: 40px;
+    background-color: rgb(219, 43, 210);
+    font-size: 30px;
     margin: 10px;
-
 }
 
 nav {
@@ -53,5 +52,9 @@ body {
 #carouselExampleDark { 
     max-width: 50vw;
     margin: auto;
+}
+#carouselExampleDarck2 {
+    max-width: 50vw;
+    margin:auto;
 }
 
