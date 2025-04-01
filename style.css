@@ -6,8 +6,8 @@
 
 .photo {
     max-width: 300px;
-    border-radius: 50px;
-    border: solid black 5px;
+    border-radius: 70px;
+    border: solid black 2px;
 }
 
 .image{
@@ -16,8 +16,12 @@
 
 nav.nav-bar{
     background-color: rgb(219, 43, 210);
-    font-size: 30px;
-    margin: 10px;
+    font-size: large;
+    margin: 5%;
+}
+nav.nav-link{
+color: white;
+text-decoration: none;
 }
 
 nav {
@@ -57,4 +61,8 @@ body {
 #carouselExampleDark2 { 
     max-width: 50vw;
     margin: auto;
+ }
+
+ .src {
+    max-width: 300px;
  }
