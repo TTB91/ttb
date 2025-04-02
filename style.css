@@ -16,9 +16,9 @@
 
 nav.nav-bar{
     background-color: rgb(219, 43, 210);
-    font-size: large;
-    margin: 5%;
+    font-size: 70%;
 }
+
 nav.nav-link{
 color: white;
 text-decoration: none;
@@ -26,7 +26,7 @@ text-decoration: none;
 
 nav {
     font-family: "Tenor Sans", sans-serif;
-    font-weight: 200;   
+    font-weight: 2000;   
 }
 
 h1 {
@@ -45,7 +45,7 @@ p {
 }
 
 li{
-margin: 20px;
+margin: 50px;
 }
 
 body {
