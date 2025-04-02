@@ -16,17 +16,18 @@
 
 nav.nav-bar{
     background-color: rgb(219, 43, 210);
-    font-size: 70%;
+    font-size: 20px;
+    margin-bottom: 50px;
 }
 
 nav.nav-link{
-color: white;
+color: rgb(190, 17, 17);
 text-decoration: none;
 }
 
 nav {
     font-family: "Tenor Sans", sans-serif;
-    font-weight: 2000;   
+    font-weight: 200;   
 }
 
 h1 {
@@ -45,14 +46,15 @@ p {
 }
 
 li{
-margin: 50px;
+margin: 15px;
 }
+
+ body {
+    background-color: lightpink;
+} 
 
 body {
     background-color: lightpink;
-}
-body {
-    background-color: antiquewhite;
 }
 
 
