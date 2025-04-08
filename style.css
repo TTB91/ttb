@@ -1,7 +1,5 @@
 /* Add styles here */
-
-/* importar bootstrap */
-@import '~bootstrap/dist/css/bootstrap.min.css';
+@import "../node_modules/bootstrap/scss/functions";
 
 
 .photo {
@@ -20,9 +18,8 @@ nav.nav-bar{
     margin-bottom: 50px;
 }
 
-nav.nav-link{
-color: rgb(0, 0, 0);
-text-decoration: none;
+nav.nav-bar a{
+    color: black;
 }
 
 nav {
@@ -48,6 +45,8 @@ p {
 
 li{
 margin: 15px;
+list-style: none;
+
 }
 
  body.bg-pink {
