@@ -38,6 +38,12 @@ h2{
     font-weight: 300;
     margin: 50px;
 }
+
+h3{
+    font-family: "Tenor Sans", sans-serif;
+    font-weight: 100;
+
+}
 p {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 500;
