@@ -12,6 +12,16 @@
     max-width: 300px;
 }
 
+.carousel-inner img {
+    max-width: 100%;
+    height: auto;
+    max-height: 400px; /* Ajusta este valor según lo que necesites */
+    object-fit: contain;
+    margin: 0 auto;
+    display: block;
+  }
+  
+
 nav.nav-bar{
     background-color: rgb(219, 43, 210);
     font-size: 20px;
