@@ -41,15 +41,7 @@ h1 {
     font-family: "Tenor Sans", sans-serif;
     font-weight: 800;
     padding: 20px;
-    border: 2px solid #8C5D3F;     /* Color del marco */
-    padding: 10px 20px;            /* Espaciado interno */
-    background-color: #F5E9E0;     /* Color de fondo suave */
-    color: #8C5D3F;                /* Color del texto */
-    border-radius: 10px;           /* Bordes redondeados */
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
-    text-align: center;           /* Centra el texto */
-    margin: 20px 0;               /* Espaciado externo */
-    font-weight: bold;
+   
     }
     
 h2{
